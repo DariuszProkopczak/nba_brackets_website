@@ -3,5 +3,3 @@ Web app for displaying scores of several players nba bracket predictions. Scores
 
 To run:
 python bracket_server.py
-
-Website is currently running at <http://demar4mvp.com>
